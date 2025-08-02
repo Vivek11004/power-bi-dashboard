@@ -83,11 +83,7 @@ This dashboard is intended for:
 
 ---
 
-## 📬 Contact
 
-For questions or feedback, feel free to reach out at:  
-📧 `your-email@example.com`  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
 
 ---
 
